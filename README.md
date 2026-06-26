@@ -355,7 +355,7 @@ g++ -o student_simulator main.cpp -std=c++11 -fexec-charset=GBK
 
 ## 📄 许可证
 
-本项目采用 **MIT License** 开源协议。
+本项目采用 **Apache-2.0 license** 开源协议。
 
 ---
 
