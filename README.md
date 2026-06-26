@@ -385,9 +385,8 @@ SOFTWARE.
 
 ## 📞 联系方式
 
-- **项目维护者**：[你的名字]
-- **GitHub**：[你的GitHub链接]
-- **Email**：[你的邮箱]
+- **项目维护者**：[Dcuk]
+- **GitHub**：[https://github.com/MC-MCL/xiaoyanmnq]
 
 ---
 
@@ -406,5 +405,5 @@ SOFTWARE.
 **祝你大学生活愉快！🎉**
 ```
 
----
+
 
