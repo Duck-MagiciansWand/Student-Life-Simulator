@@ -286,8 +286,8 @@ limitations under the License.
 
 - **开发人员** : Duck, MLC, Z
 - **产品策划** : Duck
-- **项目组织** : [MagiciansWand](https://magicianswand.cn)
-- **支持机构** : [虚舟实验室](https://xuzhou-lab.com)
+- **项目组织** : [MagiciansWand](https://2015137.xyz)
+- **支持机构** : [虚舟实验室](https://www.caellab.com/)
 
 ---
 
