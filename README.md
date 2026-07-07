@@ -402,4 +402,13 @@ limitations under the License.
 
 ****注：3D建模正在制作中请稍等****
 ---
-**官方邮箱：MagiciansWand@126.com
+> **📬 加入我们：MagiciansWand@126.com**  
+> *发送邮件标题【贡献】或【合作】，你会收到：*  
+> *- PDA语言入门指南*  
+> *- 团队协作规范*  
+> *- 下一个版本的开发计划*
+> **QQ：2603419175**
+> **微信：mlc201513**
+
+Copyright © 2026 Magician's Wand
+
